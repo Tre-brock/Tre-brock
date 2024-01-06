@@ -8,7 +8,7 @@
   
 </head>
   <body>
-<main>\
+<main>
   <br>
   <br>
   <br>
