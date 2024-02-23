@@ -3,4 +3,4 @@
 - 🌱 I’m currently making firefox extention and a few other things
 - 📫 Discord : (underscore)__tre_tre_tre__(underscore) 
 
-
+<a rel="me" href="https://mastodon.social/@Tre_brock">Mastodon</a>
