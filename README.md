@@ -1,3 +1,12 @@
 https://TreBrock.net
 <br>
-![gnu](https://github.com/user-attachments/assets/2e49db1c-5f57-4e3b-8e66-0c06884eacd8) ![bitwarden](https://github.com/user-attachments/assets/e12f2025-a68b-4315-9437-631a5f67ef9b) ![linux_powered](https://github.com/user-attachments/assets/ec03207d-987f-45aa-8254-90c159743345) ![moznow2](https://github.com/user-attachments/assets/22b87e2d-aed3-4f2b-98e0-8efebccf27d8) 
+<p align="right">
+<a href="https://fsf.org"><img src="https://github.com/user-attachments/assets/4677e87b-4124-4a23-8c23-1edea7063187"></a>
+  <br>
+<a href="https://www.fsf.org/campaigns/opendocument/"><img src="https://github.com/user-attachments/assets/51a1be98-d2ca-42bc-9357-c0518051ec8e"></a>
+<br>
+  <a href="https://playogg.org"><img src="https://github.com/user-attachments/assets/5e9f0bda-2b8d-4517-9b14-85ecaafa1139"></a>
+</p>
+
+
+
