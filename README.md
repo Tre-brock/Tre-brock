@@ -1,6 +1,6 @@
 | Repo  | Icon | Description |
 | ------------- | ------------- | ------------- |
-| [Tre_Brock-Website](https://github.com/Tre-brock/Tre_Brock-Website)  | <img src="https://github.com/Tre-brock/Tre_Brock-Website/blob/main/files/tre.gif" alt="Animated Tre" width="64"> |  Source for trebrock.net.  |
+| [Tre_Brock-Website](https://github.com/Tre-brock/Tre_Brock-Website)  | <img src="https://raw.githubusercontent.com/Tre-brock/Tre_Brock-Website/master/files/tre.gif" alt="Animated Tre" width="64"> |  Source for trebrock.net.  |
 | [USB-Tool](https://github.com/Tre-brock/USB-Tool) | |  CLI program to write iso files to a usb drive.   |
 | [Wikipedia-MonoBook-Redirect](https://github.com/Tre-brock/Wikipedia-MonoBook-Redirect) |<img src="https://raw.githubusercontent.com/Tre-brock/Wikipedia-MonoBook-Redirect/refs/heads/main/Icon.png" alt="Open Book" width="64">|  Redirects Wikipedia articles to the MonoBook theme version of the page.  |
 |  [Duckduckgo-search-box-extention](https://github.com/Tre-brock/Duckduckgo-search-box-extention) |<img src="https://github.com/Tre-brock/Duckduckgo-search-box-extention/blob/main/you%20dont%20want%20to%20know.png?raw=true" alt="Duckduckgo Icon with laser eyes" width="64"> |  Adds an icon that you can click and it shows a search box that will open a new tab when you click enter or search.  |
